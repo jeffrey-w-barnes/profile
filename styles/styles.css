@@ -1,4 +1,7 @@
-    body {
+    body { 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
       text-align: center;
       background: url("../images/splash_background.jpg");
       background-size: auto;
