@@ -1,7 +1,8 @@
     body {
       text-align: center;
       background: url("../images/splash_background.jpg");
-      background-size: cover;
+      background-size: auto;
+      background-position: center;
       color: white;
       font-family: helvetica;
     }
