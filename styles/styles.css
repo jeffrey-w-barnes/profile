@@ -2,7 +2,7 @@
       text-align: center;
       background: url("../images/splash_background.jpg");
 background-position: center;
--webkit-background-size: cover;
+-webkit-background-size: auto;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
