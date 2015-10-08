@@ -1,14 +1,14 @@
     body { 
       text-align: center;
-      background: url("../images/splash_background.jpg");
+      /*background: url("../images/splash_background.jpg");
 background-position: center;
 -webkit-background-size: auto;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
 height: 100%; 
-overflow: hidden;
-      color: white;
+overflow: hidden;*/
+      color: black;
       font-family: helvetica;
     }
     p {
